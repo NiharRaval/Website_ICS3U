@@ -1,13 +1,24 @@
-	font-size: 70;
-	background-color: red;
-	color: teal;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
 }
- body {
 
-
+li {
+  float: left;
 }
 
-a {}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 
-
-p {}
+li a:hover {
+  background-color: #111;
+}
+body{background-image: url("https://wallpapershome.com/images/pages/pic_h/20315.jpg");
