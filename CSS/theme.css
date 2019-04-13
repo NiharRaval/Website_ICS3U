@@ -30,7 +30,13 @@ li a:hover:not(.active) {
 .active {
   background-color: #4CAF50;
 }
-li a:hover {
-  background-color: #111;
-}
-body{background-image: url("https://images.wallpaperscraft.com/image/black_light_dark_figures_73356_1280x720.jpg");
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li style="float:right"><a href="#about">About</a></li>
+</ul>
