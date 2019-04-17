@@ -7,7 +7,7 @@ ul {
 }
 
 li {
-  float: left;
+  float: right;
 }
 
 li a {
@@ -24,10 +24,6 @@ li a:hover:not(.active) {
 
 .active {
   background-color: #4CAF50;
-}
-
-body {
-  background-image: url("https://www.noupe.com/wp-content/uploads/2009/10/pattern-07.jpg");
 }
 
 h1 {
