@@ -29,3 +29,17 @@ li a:hover:not(.active) {
 h1 {
   font-size: 40px;
 }
+
+  body {
+  background-color: white;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
