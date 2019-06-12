@@ -24,3 +24,17 @@ li a:hover:not(.active) {
 
 .active {
   background-color: #4CAF50;
+
+
+.title{
+  position:absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+
+
+
+
+
+
+}
